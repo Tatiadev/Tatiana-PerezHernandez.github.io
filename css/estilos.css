@@ -361,10 +361,7 @@ body{
 
 /*Media queries*/
 
-@media (max-width:800px){
-    .nav__menu{
-        display:block;
-    }
+@media (max-width:800px)
 
     .nav__link--menu{
         position: fixed;
